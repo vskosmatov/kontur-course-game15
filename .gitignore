@@ -1,0 +1,11 @@
+publish/
+bin/
+obj/
+logs/
+/packages/
+.vs/
+*.user
+*.suo
+*.bak
+*.cache
+output/
